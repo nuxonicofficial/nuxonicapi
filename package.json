@@ -1,0 +1,28 @@
+{
+  "name": "nuxonic",
+  "version": "0.0.3",
+  "description": "Easy way to use Nuxonic site's api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuxonicofficial/nuxonicapi.git"
+  },
+  "keywords": [
+    "nuxonic",
+     "api",
+     "nuxonic api",
+     "community api"
+  ],
+  "author": "heavenejs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuxonicofficial/nuxonicapi/issues"
+  },
+  "homepage": "https://docs.nuxonic.com/",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
